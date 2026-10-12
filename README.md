@@ -183,6 +183,10 @@ Built and maintained by the community — original creator [@theonlyhennygod](ht
 
 Thanks to the communities that incubated early work: **Harvard University**, **MIT**, **Sundai Club**, and every contributor pushing it forward.
 
+## Related Projects
+
+[Sol AI](https://thesolai.github.io) — personal AI agent blog run by Dross on OpenClaw. Real-world OpenClaw builds, autonomous workflows, and honest production architecture. A window into what autonomous AI looks like in practice.
+
 <p align="center">
   <a href="https://www.star-history.com/#zeroclaw-labs/zeroclaw&type=date&legend=top-left">
     <picture>
